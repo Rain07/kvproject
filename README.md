@@ -1,3 +1,7 @@
+WebDesign project with redux than you can use it with give api in action and surf the city!
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
