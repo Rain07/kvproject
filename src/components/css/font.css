@@ -1,0 +1,23 @@
+@font-face {
+    /*font-family: 'IRANSansWeb Medium';*/
+    font-family: 'IRANSansWeb';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/IRANSansWeb-Medium.ttf') format('truetype'),
+    url('../fonts/IRANSansWeb_Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/IRANSansWeb_Medium.woff2') format('woff2');
+}
+@font-face {
+    /*font-family: 'IRANSansWeb Medium';*/
+    font-family: 'Tahoma';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/IRANSansWeb-Medium.ttf') format('truetype'),
+    url('../fonts/IRANSansWeb_Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/IRANSansWeb_Medium.woff2') format('woff2');
+}
+
+
+body {
+    font-family: 'IRANSansWeb', Roboto, Arial !important;
+}
